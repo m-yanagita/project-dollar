@@ -1,0 +1,18 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Nuxt
+node_modules/
+.output/
+.nuxt/
+
+# Environment
+.env
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
