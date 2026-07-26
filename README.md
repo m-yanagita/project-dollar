@@ -1,11 +1,37 @@
-# Project Dollar
+Project Dollar
 
-Mission
+Build Useful Tools For Entrepreneurs.
 
-Build profitable products for the global market.
 
-Rule
+Current Tools
 
-Ship every 2 weeks.
+--------------------
 
-Never chase perfection.
+- Startup Name Generator
+
+Upcoming Tools
+
+--------------------
+
+- SEO Generator
+- Password Generator
+- Prompt Generator
+
+
+Tech Stack
+
+--------------------
+
+- Nuxt4
+- FastAPI
+- Vue3
+- Python
+- Git
+- GitHub
+
+
+Author
+
+--------------------
+
+Project Dollar Team
