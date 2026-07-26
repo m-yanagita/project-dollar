@@ -26,6 +26,8 @@ const copyName = async(name)=>{
 
 const generate = async () => {
 
+    results.value = []
+
     if (!industry.value && !keyword.value) {
 
         errorMessage.value =
