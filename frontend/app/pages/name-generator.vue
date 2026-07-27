@@ -63,7 +63,7 @@ const generate = async () => {
         loading.value = true
 
         const response = await $fetch(
-            "https://project-dollar-api.onrender.com",
+            "https://project-dollar-api.onrender.com/name-generator",
             {
                 method: "POST",
                 body: {
