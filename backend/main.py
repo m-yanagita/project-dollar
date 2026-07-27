@@ -4,6 +4,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from routers import generator
 from pydantic import BaseModel
+from services.name_generator import generate_names
 import os
 
 app = FastAPI()
